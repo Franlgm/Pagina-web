@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+   <channel>
+        <title>Blog de ASIR</title>
+        <link>https://jvrcabrera.github.io/web/</link>
+        <description>Contenido educativo y personal sobre informática y el ciclo ASIR.</description>
+        <language>es</language>
+        <copyright>© 2025 - Mi página web</copyright>
+
+        <item>
+            <title>Inicio</title>
+            <link>https://jvrcabrera.github.io/web/</link>
+            <description>Página de inicio del sitio con introducción general y presentación visual.</description>
+            <pubDate>Mon, 05 May 2025 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Sobre mí</title>
+            <link>https://jvrcabrera.github.io/web/paginas/sobremi.html</link>
+            <description>Una página sobre el autor del sitio y su trayectoria.</description>
+            <pubDate>Mon, 05 May 2025 09:05:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Blog: Conocimientos adquiridos</title>
+            <link>https://jvrcabrera.github.io/web/paginas/conocimientosadquiridos.html</link>
+            <description>Artículos y contenidos aprendidos durante el grado de ASIR.</description>
+            <pubDate>Mon, 05 May 2025 09:10:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>¿Dónde me he formado?</title>
+            <link>https://www.iesmedinaazahara.es/</link>
+            <description>Centro educativo donde se ha cursado el grado.</description>
+            <pubDate>Mon, 05 May 2025 09:15:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Información extra</title>
+            <link>https://jvrcabrera.github.io/web/paginas/informacionextra.html</link>
+            <description>Recursos y datos adicionales relacionados con la formación y el sitio web.</description>
+            <pubDate>Mon, 05 May 2025 09:20:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Política de privacidad</title>
+            <link>https://jvrcabrera.github.io/web/paginas/politicaprivacidad.html</link>
+            <description>Política de privacidad y términos legales del sitio.</description>
+            <pubDate>Mon, 05 May 2025 09:25:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

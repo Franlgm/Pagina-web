@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Mi página web</title>
+    <link href="https://www.tusitioweb.com/"/>
+    <updated>2025-05-05T12:00:00Z</updated>
+    <author>
+        <name>Mi página web</name>
+    </author>
+    <id>https://www.tusitioweb.com/</id>
+
+    <entry>
+        <title>Sobre mí</title>
+        <link href="https://www.tusitioweb.com/paginas/sobremi.html"/>
+        <id>https://www.tusitioweb.com/paginas/sobremi.html</id>
+        <updated>2025-05-05T12:00:00Z</updated>
+        <summary>Sección donde hablo sobre mí.</summary>
+    </entry>
+
+    <entry>
+        <title>Blog - Conocimientos adquiridos</title>
+        <link href="https://www.tusitioweb.com/paginas/conocimientosadquiridos.html"/>
+        <id>https://www.tusitioweb.com/paginas/conocimientosadquiridos.html</id>
+        <updated>2025-05-05T12:00:00Z</updated>
+        <summary>Entradas relacionadas con los conocimientos adquiridos durante el aprendizaje.</summary>
+    </entry>
+
+    <entry>
+        <title>¿Dónde me he formado?</title>
+        <link href="https://www.iesmedinaazahara.es/"/>
+        <id>https://www.iesmedinaazahara.es/</id>
+        <updated>2025-05-05T12:00:00Z</updated>
+        <summary>Centro educativo donde he recibido mi formación.</summary>
+    </entry>
+
+    <entry>
+        <title>Información extra</title>
+        <link href="https://www.tusitioweb.com/paginas/informacionextra.html"/>
+        <id>https://www.tusitioweb.com/paginas/informacionextra.html</id>
+        <updated>2025-05-05T12:00:00Z</updated>
+        <summary>Información adicional sobre mis proyectos o intereses.</summary>
+    </entry>
+
+    <entry>
+        <title>Imagen de portada</title>
+        <link href="https://www.tusitioweb.com/imagenes/imagen1.jpg"/>
+        <id>https://www.tusitioweb.com/imagenes/imagen1.jpg</id>
+        <updated>2025-05-05T12:00:00Z</updated>
+        <summary>Imagen principal acompañada de un texto de introducción sobre el contenido del sitio.</summary>
+    </entry>
+</feed>
